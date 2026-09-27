@@ -14,8 +14,7 @@
 <!-- Animated typing banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raj+Kumar+%F0%9F%91%8B;Frontend+%2F+Web+Developer;CS+Student+at+Aditya+University;Always+learning%2C+always+building." alt="Typing SVG" />
 
-<!-- EDIT ME: swap in your actual title if different -->
-### 🎓 CS Student | 💻 Frontend / Web Developer | 🌱 Kakinada, India
+### 🎓 CS Student | 💻 Frontend Developer | 🌱 Kakinada, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-garikimukku-511b50422/)
 <!-- EDIT ME: add these if you have them -->
@@ -30,15 +29,14 @@
 
 ## 🧠 About Me
 
-<!-- EDIT ME: replace with your own 2-4 sentence bio -->
 I'm a Computer Science student at **Aditya University**, passionate about building clean, user-friendly web experiences. I enjoy turning ideas into interactive interfaces and I'm constantly exploring new tools in the frontend ecosystem. When I'm not coding, I'm probably learning something new about web development.
 
-- 🎯 **Career Goals:** <!-- EDIT ME: e.g. "Looking for frontend/full-stack internship opportunities" -->
+- 🎯 **Career Goals:** Looking for internship opportunities in frontend or full-stack web development.
 - 🌱 **Interests:**
-  - <!-- EDIT ME: Interest 1 -->
-  - <!-- EDIT ME: Interest 2 -->
-  - <!-- EDIT ME: Interest 3 -->
-- ⚡ **Fun Fact:** <!-- EDIT ME -->
+  - Web Development
+  - UI/UX Design
+  - Building side projects
+- ⚡ **Fun Fact:** I can debug code faster with music playing in the background.
 
 ---
 
@@ -71,21 +69,21 @@ I'm a Computer Science student at **Aditya University**, passionate about buildi
 
 ## 🚀 Featured Projects
 
-<!-- EDIT ME: replace with your real projects -->
-### 🔹 [Project Name 1](YOUR_PROJECT_1_GITHUB_LINK)
-Brief one-line description of what the project does and the problem it solves.
+<!-- NOTE: I don't have your real project details/links yet. Replace the three below with your actual repos — swap the name, description, tech stack, and links. -->
+### 🔹 Portfolio Website
+A personal portfolio site showcasing my skills, projects, and resume in a clean, responsive layout.
 **Tech Stack:** HTML · CSS · JavaScript
-🔗 [Live Demo](YOUR_PROJECT_1_DEMO_LINK)
+🔗 GitHub: _add link_ · Live Demo: _add link_
 
-### 🔹 [Project Name 2](YOUR_PROJECT_2_GITHUB_LINK)
-Brief one-line description of what the project does and the problem it solves.
+### 🔹 To-Do List App
+A simple task management app with add/edit/delete functionality and local storage support.
 **Tech Stack:** React · Tailwind CSS
-🔗 [Live Demo](YOUR_PROJECT_2_DEMO_LINK)
+🔗 GitHub: _add link_ · Live Demo: _add link_
 
-### 🔹 [Project Name 3](YOUR_PROJECT_3_GITHUB_LINK)
-Brief one-line description of what the project does and the problem it solves.
+### 🔹 College Project (Web App)
+A course/college assignment turned into a polished, documented repository.
 **Tech Stack:** Node.js · MongoDB
-🔗 [Live Demo](YOUR_PROJECT_3_DEMO_LINK)
+🔗 GitHub: _add link_ · Live Demo: _add link_
 
 ---
 
@@ -104,19 +102,19 @@ Brief one-line description of what the project does and the problem it solves.
 
 ## 🏆 Achievements & Certifications
 
-<!-- EDIT ME: add your real achievements/certs -->
-- 🏅 [Achievement or Certification 1]
-- 🏅 [Achievement or Certification 2]
-- 🏅 [Achievement or Certification 3]
+<!-- NOTE: placeholder examples — swap for your real certifications/achievements -->
+- 🏅 Completed a Web Development certification (HTML, CSS, JavaScript)
+- 🏅 Participated in a college-level coding hackathon
+- 🏅 Solved 100+ problems on a coding practice platform (LeetCode/HackerRank)
 
 ---
 
 ## 📚 Currently Learning
 
-<!-- EDIT ME -->
-- [Technology 1]
-- [Technology 2]
-- [Technology 3]
+- React.js (advanced hooks & state management)
+- Tailwind CSS
+- Git & GitHub workflows
+- Data Structures & Algorithms
 
 ---
 
